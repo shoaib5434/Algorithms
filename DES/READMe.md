@@ -1,5 +1,5 @@
 # DES Algorithm [Code Flow Explained]
-### Pre-requisite [DES Algorithm Slide 15 - 31](https://docs.google.com/presentation/d/1nxHkbSJD9Lk_LG6YCpDqsPLU1B8foWFxee9JuXJ1WTA/edit?usp=sharing)
+### Pre-requisite [DES Algorithm Slide 15 - 31](https://docs.google.com/presentation/d/1nxHkbSJD9Lk_LG6YCpDqsPLU1B8foWFxee9JuXJ1WTA/edit#slide=id.p15)
 ### Functions Description
 
 ##### passFromTable(vector<vector<int>>,string)
